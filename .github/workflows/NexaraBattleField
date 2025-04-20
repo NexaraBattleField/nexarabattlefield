@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nexara BattleField</title>
+  <style>
+    /* General Styles */
+    body {
+      margin: 0;
+      font-family: 'Roboto', sans-serif;
+      background-color: #121212;
+      color: #f5f5f5;
+      line-height: 1.6;
+    }
+    a {
+      text-decoration: none;
+      color: #00cec9;
+    }
+    h1, h2, h3 {
+      font-family: 'Audiowide', cursive;
+    }
+    /* Header */
+    header {
+      background-color: #1f1f1f;
+      padding: 20px;
+      text-align: center;
+      border-bottom: 5px solid #00cec9;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      color: #fff;
+    }
+    /* Hero Section */
+    .hero {
+      text-align: center;
+      padding: 50px 20px;
+      background: url('https://via.placeholder.com/1500x600') no-repeat center center/cover;
+      color: #fff;
+    }
+    .hero h2 {
+      font-size: 2rem;
+    }
+    .hero p {
+      margin: 20px auto;
+      width: 60%;
+      font-size: 1.2rem;
+    }
+    .hero button {
+      padding: 10px 20px;
+      background-color: #00cec9;
+      color: #fff;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+      font-size: 1rem;
+    }
+    .hero button:hover {
+      background-color: #0984e3;
+    }
+    /* About Section */
+    .about {
+      padding: 50px 20px;
+      text-align: center;
+    }
+    .about h2 {
+      font-size: 2rem;
+      color: #00cec9;
+    }
+    .about p {
+      margin: 20px auto;
+      width: 70%;
+    }
+    /* Contact Section */
+    .contact {
+      padding: 50px 20px;
+      background-color: #1f1f1f;
+      text-align: center;
+    }
+    .contact h2 {
+      color: #00cec9;
+    }
+    .contact p {
+      margin: 10px 0;
+    }
+    /* Footer */
+    footer {
+      background-color: #121212;
+      text-align: center;
+      padding: 10px;
+      color: #b2bec3;
+    }
+  </style>
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <h1>Nexara BattleField</h1>
+  </header>
+  <!-- Hero Section -->
+  <section class="hero">
+    <h2>The Ultimate Gaming Tournament App</h2>
+    <p>Join the eSports revolution with premium features, competitive matches, and a gamer-centric design. Available for both Battle Royale and Clash Squad formats!</p>
+    <button>Download Now</button>
+  </section>
+  <!-- About Section -->
+  <section class="about">
+    <h2>About Nexara BattleField</h2>
+    <p>Nexara BattleField is a modern, cross-platform gaming tournament app designed to offer competitive matches in a premium gaming environment. Features include a dual coin system, slot enforcement for fair play, and rewarded ads for bonus coins. Dive into Battle Royale and Clash Squad formats with customizable match settings and admin panels for effortless management.</p>
+  </section>
+  <!-- Contact Section -->
+  <section class="contact">
+    <h2>Contact Us</h2>
+    <p>Email: <a href="mailto:nexarabattlefield@gmail.com">nexarabattlefield@gmail.com</a></p>
+    <p>Website: <a href="https://example.com">https://example.com</a></p>
+  </section>
+  <!-- Footer -->
+  <footer>
+    <p>© 2025 Nexara BattleField. All rights reserved.</p>
+  </footer>
+</body>
+</html>
